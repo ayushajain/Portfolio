@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - 2 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Start Bootstrap - Portfolio Item HTML Template (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
@@ -14,7 +14,4 @@ body {
 
 footer {
     margin: 50px 0;
-}
-.carousel-holder{
-    margin-bottom: 50px;
 }
